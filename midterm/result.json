@@ -1,0 +1,16 @@
+{
+    "x": <31x1 matrix, tc="d">,
+    "y": <0x1 matrix, tc="d">,
+    "s": <41x1 matrix, tc="d">,
+    "z": <41x1 matrix, tc="d">,
+    "status": "optimal",
+    "gap": 1.0582743145996557e-07,
+    "relative gap": 1.2448940404588844e-08,
+    "primal objective": -8.500918794739846,
+    "dual objective": -8.500918860134439,
+    "primal infeasibility": 2.424013893258741e-09,
+    "dual infeasibility": 2.1978278954791892e-10,
+    "primal slack": 2.2002744372750826e-10,
+    "dual slack": 4.703605021503806e-09,
+    "iterations": 8
+    }
